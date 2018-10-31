@@ -5,8 +5,26 @@ written response. I've also createOver the course of this assignment, I explored
 
 # Images
 
-### Job Description
-![alt text](https://github.com/introdh/intro-dh2018-kaydub14/blob/master/images/plot8.png "plot_8")
+# Job Description
+![alt text](https://github.com/introdh/intro-dh2018-kaydub14/blob/master/images/jobdescription.png "job_description")
+
+# Married
+![alt text](https://github.com/introdh/intro-dh2018-kaydub14/blob/master/images/married.png "plot_married")
+
+# Cluster
+![alt text](https://github.com/introdh/intro-dh2018-kaydub14/blob/master/images/cluster.png "plot_cluster")
+
+# Gender
+![alt text](https://github.com/introdh/intro-dh2018-kaydub14/blob/master/images/gender.png "plot_gender")
+
+# Degree
+![alt text](https://github.com/introdh/intro-dh2018-kaydub14/blob/master/images/degree.png "plot_degree")
+
+# Component
+![alt text](https://github.com/introdh/intro-dh2018-kaydub14/blob/master/images/component.png "plot_component")
+
+# Component Size
+![alt text](https://github.com/introdh/intro-dh2018-kaydub14/blob/master/images/componentsize.png "plot_componentsize")
 
 **1.Describe the data you selected for your analysis. Assume the reader is unfamiliar with the data.**
 
