@@ -2,9 +2,10 @@
 
 Hello! Welcome to my written response regarding the network that I created. Images of the network can be found below throughout the 
 written response. I've also createOver the course of this assignment, I explored the relationships that each character in the hit TV show, *The Office*, that aired on NBC. 
+
 # Images
 
-# Job Description
+### Job Description
 ![alt text](https://github.com/introdh/intro-dh2018-kaydub14/blob/master/images/plot8.png "plot_8")
 
 **1.Describe the data you selected for your analysis. Assume the reader is unfamiliar with the data.**
