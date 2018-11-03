@@ -29,7 +29,7 @@ written response. I've also createOver the course of this assignment, I explored
 **1.Describe the data you selected for your analysis. Assume the reader is unfamiliar with the data.**
 
 I decided to create my own data for the network that I built. This data was compiled using the cast from the NBC television series, 
-*The Office*. This TV series is an American sitcom that aired from 2005 to 2013. The link to the data that was used for the network can be found [here.] (https://docs.google.com/spreadsheets/d/1PQ2yLvsuGVgKT_mL2uZw1LSZbdg9ZUU9QIPDdexT_uA/edit?usp=sharing) I specifically chose *The Office* because it's a TV series that I have spent the whole semester watching. I wanted to see what networks could be built from the characters within the show. 
+*The Office*. This TV series is an American sitcom that aired from 2005 to 2013. The link to the data that was used for the network can be found [here.](https://docs.google.com/spreadsheets/d/1PQ2yLvsuGVgKT_mL2uZw1LSZbdg9ZUU9QIPDdexT_uA/edit?usp=sharing) I specifically chose *The Office* because it's a TV series that I have spent the whole semester watching. I wanted to see what networks could be built from the characters within the show. 
 
 **2.Explain the questions/ arguments your network generates about your data.**
 
