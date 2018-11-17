@@ -2,7 +2,7 @@
 
 # Part 3 Reflection
 
-The link to my data can be found [here](https://docs.google.com/spreadsheets/d/1Ox1uN7AMU5BsM0dt9xV7zdyTBjXOAs18RLhNuGXbaLk/edit#gid=0) as well as the link to my StoryMap [here](http://urichmond.maps.arcgis.com/apps/MapJournal/index.html?appid=0524ac1b1e58408db8a9aa0c8a79c5f7&edit#).
+The link to my data can be found [here](https://docs.google.com/spreadsheets/d/1Ox1uN7AMU5BsM0dt9xV7zdyTBjXOAs18RLhNuGXbaLk/edit#gid=0) as well as the link to my StoryMap [here](http://arcg.is/1j9aLv).
 
 **1. Discuss the process of creating your data, building your map in ArcGIS Online, and selecting which points to feature in your Storymap.**
 
