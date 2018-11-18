@@ -14,6 +14,19 @@ The process of building my data took about a week because I had to track all of 
 place as applied to your map. How might you be able to address some of these issues in the future?**
 
 
-**3. What are the limits and possibilities of Mapping/Spatial Analysis**
+**3. What are the limits and possibilities of Mapping/Spatial Analysis?**
 
+The possibilities and limits of mapping/spatial analysis are outlined below. 
+
+**Possibilities**
+* perspectives (political)
+* knowledge production
+  - Conditions: within "economy of morality"
+* reliance on categories as a way to organize data
+* challenge societal norms
+
+**Limits**
+* art/not neutral
+* complicit in social inequality (ex. racism)
+* Reliance on categories means that the categories themselves do not reflect the complexity of that specifc category)
 
