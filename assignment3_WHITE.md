@@ -12,7 +12,7 @@ The process of building my data took about a week because I had to track all of 
 these places using the longitude and latitude coordinates in Google maps. I then downloaded the data as a CSV file so it could be 
 uploaded to ArcGIS Online. Using ArcGIS, I uploaded my data represented in the CSV file so that my points or the places I went to could 
 be reflected in the map. While building the map, I decided that I would just highlight the events that were most important to me in 
-order to tell my persecption of space and place. That's why I only picked the places that really meant the most to me regardless of 
+order to tell my perception of space and place. That's why I only picked the places that really meant the most to me regardless of 
 whether it was in the city or on campus. 
 
 **2. Drawing on the constraints, critiques and ideas outlined by Bodenhamer and Crampton, discuss the challenges of representing space 
