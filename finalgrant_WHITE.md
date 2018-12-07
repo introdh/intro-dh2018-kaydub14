@@ -30,13 +30,42 @@ Board of Advisors:
 
 **Enhancing the Humanities (500-1000 words)**
 
+In light of this year being election season for midterms, I started to wonder what important information could be gathered from the 
+election campaigns and donations. I have a background in women's gender and sexuality studies so I wanted to relate any information that 
+I found to be related to this area.
+
+That brought me to the idea of women on the campaign trail running for positions within Congress and the House of Representatives. This 
+is a phenomenon that has been occurring for years but it is starting to gain more traction and more of the cadidates that are running 
+for the top positions such as govenors, Secretary of State, or even the Supreme Court are women. I thought that it would be interesting 
+to see this tie together using one of the tools of the digital humanities. 
+
+Since politics are predispoded as a male-dominated, women who are campaigning for open positions in politics have to have a strong 
+network of relationships. Using information from past media coverages and Twitter to see who tagged who during the election season. The 
+NEH grant would focus on building a network to show the relationships with other promenient women in politics that the female candidates 
+have had over the years. INformation I think this wouuld help the public to be aware of who knows who because it can be difficult to 
+gleam that information from the media. Having this information readily available with dates could be helpful with dates could be helpful 
+in solving this problem.
+
+
 **Environmental Scan (500-1000 words)**
+
+DSL did a mapping project that shows the election of the House of Representatives, which is similar to what will be done throughout the course of my project. But it will be done via a network rather than a map like the DSL has done. 
 
 **History of the project (250 words)**
 
+Refer to the sources below to build the background of this project. 
+https://www.cnn.com/2018/09/16/politics/house-women-update-september/index.html
+https://www.npr.org/2018/09/25/651085628/is-the-record-number-of-women-candidates-a-2018-blip-or-a-lasting-trend
+https://www.huffingtonpost.com/entry/women-of-color-candidates-increase-2018-midterm-elections_us_5bbe8a71e4b0c8fa1367e58e
+
 **Work Plan (500 words)**
 
+
 **Final Product and dissemination (500-1000 words)**
+
+Use R Studio to build the two networks
+Then use GitHub to push the results to the public
+Will be open access to the public
 
 **Biography (250 words)**
 
