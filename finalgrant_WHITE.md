@@ -13,8 +13,17 @@ Narrative
   - Work Plan
   - Final Product
   - Biography 
+  
  Works Cited 
+ 
 # List of Participants
+
+Project Director: Kobi White - University of Richmond
+Board of Advisors: 
+  - Dr. Lauren Tilton - University of Richmond
+  - Dr. Melissa Ooten - University of Richmond
+  - Rachel Rigsby - Little Rock Central High School
+  
 
 # Narrative
 
