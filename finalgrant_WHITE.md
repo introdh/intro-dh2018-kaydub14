@@ -82,6 +82,12 @@ Also, to assist with this project, White has assembled a board of advisors to en
 
 # Works Cited
 
-Kurtzleben, Danielle. "Is The Record Number Of Women Candidates A 2018 Blip - Or A Lasting Trend?" NPR. September 25, 2018. Accessed December 04, 2018. https://www.npr.org/2018/09/25/651085628/is-the-record-number-of-women-candidates-a-2018-blip-or-a-lasting-trend.
-Ruiz-Grossman, Sarah. "Dramatic Increase In Women Of Color As 2018 Candidates: Report." The Huffington Post. October 11, 2018. Accessed December 04, 2018. https://www.huffingtonpost.com/entry/women-of-color-candidates-increase-2018-midterm-elections_us_5bbe8a71e4b0c8fa1367e58e.
-Sparks, Grace. "256 Women Won House and Senate Primaries, a Huge New Record." CNN. September 17, 2018. Accessed December 05, 2018. https://www.cnn.com/2018/09/16/politics/house-women-update-september/index.html.
+Kurtzleben, Danielle. "Is The Record Number Of Women Candidates A 2018 Blip - Or A Lasting Trend?" NPR. September 25, 2018. Accessed 
+December 04, 2018. https://www.npr.org/2018/09/25/651085628/is-the-record-number-of-women-candidates-a-2018-blip-or-a-lasting-trend.
+
+Ruiz-Grossman, Sarah. "Dramatic Increase In Women Of Color As 2018 Candidates: Report." The Huffington Post. October 11, 2018. Accessed 
+December 04, 2018. https://www.huffingtonpost.com/entry/women-of-color-candidates-increase-2018-midterm-
+elections_us_5bbe8a71e4b0c8fa1367e58e.
+
+Sparks, Grace. "256 Women Won House and Senate Primaries, a Huge New Record." CNN. September 17, 2018. Accessed December 05, 2018. 
+https://www.cnn.com/2018/09/16/politics/house-women-update-september/index.html.
