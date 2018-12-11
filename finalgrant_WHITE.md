@@ -49,10 +49,15 @@ DSL did a mapping project that shows the election of the House of Representative
 
 **History of the project (250 words)**
 
+The history of this project was mentioned a little bit before. But to delve further into what was aforementioned, women running for 
+positions in the House of Representatives and Congress caught my interest. I thought it would be interesting to see which women knew who 
+and the connections amongst the women within these areas of politics because women have to have a strong network of relationships. For the 2018 Midterm elections, "there was a 75% increase in women of color among nominees for Congress since 2012" (Ruiz-Grossman, 2018). I think that this increase in women of color running for seats in the House and Congress will only continue to increase and I would like to track this change over time. Keeping track of these women and the relations that they hold with other people will help the future candidates who plan to run connect with the candidates who have already run.
+
+While some sources think that this trend in women of color running for positions within the House and Congress is not going to last, I do. Women are becoming bold and fierce and stepping up to the plate. They are "women who are not necessarily waiting to be asked, not waiting to be asked to the dance," but rather, "they're just stepping up and engaging as candidates" (Kurtzelben, 2018). 
+
 Refer to the sources below to build the background of this project. 
 https://www.cnn.com/2018/09/16/politics/house-women-update-september/index.html
-https://www.npr.org/2018/09/25/651085628/is-the-record-number-of-women-candidates-a-2018-blip-or-a-lasting-trend
-https://www.huffingtonpost.com/entry/women-of-color-candidates-increase-2018-midterm-elections_us_5bbe8a71e4b0c8fa1367e58e
+
 
 **Work Plan (500 words)**
 Specific tasks that will be performed; involved risks and how to mitigate them
