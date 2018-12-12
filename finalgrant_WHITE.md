@@ -40,27 +40,75 @@ for the top positions such as govenors, Secretary of State, or even the Supreme 
 to see this come together using one of the tools of the digital humanities. 
 
 Since politics are predisposed as a male-dominated area, women who are campaigning for open positions in politics have to have a strong 
-network of relationships. Using information gathered from past media coverage through news outlets such as CNN, MSNBC, Fox,  and Twitter to see who tagged who during the election season. The NEH grant would focus on building a network to show the relationships with other promenient women in politics that the female candidates have had over the years. INformation I think this wouuld help the public to be aware of who knows who because it can be difficult to gleam that information from the media. Having this information readily available with dates could be helpful with dates could be helpful in solving this problem.
+network of relationships. These networks will be built using information gathered from past media coverage through news outlets such as 
+CNN, MSNBC, Fox,  and Twitter to see who tagged who during the election season. The NEH grant would focus on building a network to show 
+the relationships with other promenient women in politics that the female candidates have had over the years. I think this 
+wouuld help the public be aware of who knows who because it can be difficult to gleam that information from the media. Having this 
+information readily available with dates could be helpful in solving this problem.
+
+The questions that I hope to answer through this project are as follows:
+
+1. Are there close relationships between candidates across party lines?
+2. Will this be a trend that continues over the next several election seasons?
+3. How would adding additional parameters such as male relationships change the networks?
+4. Is there a correlation between candidates who are mothers? Do they reach out to other female candidates that are mothers?
 
 
 **Environmental Scan (500-1000 words)**
 
-DSL did a mapping project that shows the election of the House of Representatives, which is similar to what will be done throughout the course of my project. But it will be done via a network rather than a map like the DSL has done. 
+DSL did a mapping project that shows the election of the House of Representatives, which is similar to what will be done throughout the 
+course of my project. But it will be done via a network rather than a map like the DSL has done. 
+
+# DSL Map View
+![alt text](https://github.com/introdh/intro-dh2018-kaydub14/blob/master/images/jobdescription.png "job_description")
+
+# DSL Cartogram View
+![alt text](https://github.com/introdh/intro-dh2018-kaydub14/blob/master/images/jobdescription.png "job_description")
+
 
 **History of the project (250 words)**
 
 The history of this project was mentioned a little bit before. But to delve further into what was aforementioned, women running for 
 positions in the House of Representatives and Congress caught my interest. I thought it would be interesting to see which women knew who 
-and the connections amongst the women within these areas of politics because women have to have a strong network of relationships. For the 2018 Midterm elections, "there was a 75% increase in women of color among nominees for Congress since 2012" (Ruiz-Grossman, 2018). I think that this increase in women of color running for seats in the House and Congress will only continue to increase and I would like to track this change over time. Keeping track of these women and the relations that they hold with other people will help the future candidates who plan to run connect with the candidates who have already run.
+and the connections amongst the women within these areas of politics because women have to have a strong network of relationships. For 
+the 2018 Midterm elections, "there was a 75% increase in women of color among nominees for Congress since 2012" (Ruiz-Grossman, 2018). I 
+think that this increase in women of color running for seats in the House and Congress will only continue to increase and I would like 
+to track this change over time. Keeping track of these women and the relations that they hold with other people will help the future 
+candidates who plan to run connect with the candidates who have already run.
 
-While some sources think that this trend in women of color running for positions within the House and Congress is not going to last, I do. Women are becoming bold and fierce and stepping up to the plate. They are "women who are not necessarily waiting to be asked, not waiting to be asked to the dance," but rather, "they're just stepping up and engaging as candidates" (Kurtzelben, 2018). 
+While some sources think that this trend in women of color running for positions within the House and Congress is not going to last, I 
+do. Women are becoming bold and fierce and stepping up to the plate. They are "women who are not necessarily waiting to be asked, not 
+waiting to be asked to the dance," but rather, "they're just stepping up and engaging as candidates" (Kurtzelben, 2018). 
 
 Refer to the sources below to build the background of this project. 
 https://www.cnn.com/2018/09/16/politics/house-women-update-september/index.html
 
 
 **Work Plan (500 words)**
-Specific tasks that will be performed; involved risks and how to mitigate them
+
+The timeline of getting this project up and running is about three to four months. I set this timeline to ensure enough time for data 
+gathering and the building of the website. For month one, I will spend the time gathering the data and assembling it into a database 
+from which it can be pulled. The data will come from various media outlets such as CNN, MSNBC, Fox, and Twitter as mentioned before. 
+
+In month two, I want to work with Dr. Tilton to compile all of the data into the networks using R Studio. Since the current software 
+package in R Studio is not built to deal with this kind of data, there will be a few tweaks that need to be made. While this may be a 
+long process, I believe it will be worth it. It is important to note that issues can occur in the process of building the networks in R 
+Studio, hence why I have allowed a month's worth of time to work these kinks out. If any issues do occur, then myself and Dr. Tilton can 
+take a deeper look in the code of the R language to figure out where the bug is. 
+
+When month three rolls around, I would like to be able to start moving the networks over to the website. I was thinking that a nicer 
+platform that is pleasing to the eye of the viewer would be nice. So I thought about Wix since it is an easy-to-build, time efficient 
+way to build a website without actually coding. Once the data is moved over, the goal then would be to put all of the information 
+regarding the project that has been outlined in this grant on the website. I would like to explain the nature of the project, why it was 
+done, and how it can built upon in the future.
+
+During month four, I would like to test the website with a small audience. That audience could be the Digital Scholarship Lab at the 
+University of Richmond. The purpose of this pilot test is to get feedback and areas of improvement that potentially could improve the 
+website. For the pilot stage, I will put a feedback or "Contact Us" form for the pilot audience to leave feedback. I want to ensure that 
+the website is clear in its purpose of being created and that others can easily understand that. After doing the pilot test for the 
+first half of the fourth month, I will take all of the critique into consideration and tweak the website accordingly. For the second 
+half of the month, the website will go live for the public to see it. I want this website to be open access on the Internet. But I don't 
+want anyone to be able to make changes to the project so it will closed access in that regard. 
 
 **Final Product and dissemination (500-1000 words)**
 
@@ -78,7 +126,16 @@ today. I also was able to learn about each tool of the digital humanities is and
 questions that are raised through the humanities. These tools can be presented individually or intertwined together in order to make a 
 project with more impact. Due to this introductory course, I will be able to contribute to this project in a visual way through the use of multiple networks. 
 
-Also, to assist with this project, White has assembled a board of advisors to ensure that any advice given would be directly applicable to the project. The instructor of the Introduction to Digital Humanities, Dr. Lauren Tilton, was instrumental in teaching the main concepts of Digital Humanities throughout the course. She has a wide depth of experience and expertise through her research. This is why Dr. Tilton was selected to be on her Board of Advisors for this project. Next, Dr. Melissa Ooten was selected to be a part of the board of advisers because of her background in women and gender studies. She would be helpful in providing additional background information on the women/gender aspect of the project. Lastly, Mrs. Rachel Rigsby was selected to be on the advisory board due to her extensive knowledge of history, as she is a high school AP World History teacher in Little Rock, Arkansas. She would be instrumental in providing the historical perspective of women being added to the House of Representatives and Congress over the last few decades. Together, the advisory board would be greatly beneficial in helping White to further identify any trends that would be applicable to the rise of women running for positions within the House of Representatives and Congress. 
+Also, to assist with this project, White has assembled a board of advisors to ensure that any advice given would be directly applicable 
+to the project. The instructor of the Introduction to Digital Humanities, Dr. Lauren Tilton, was instrumental in teaching the main 
+concepts of Digital Humanities throughout the course. She has a wide depth of experience and expertise through her research. This is why 
+Dr. Tilton was selected to be on her Board of Advisors for this project. Next, Dr. Melissa Ooten was selected to be a part of the board 
+of advisors because of her background in women and gender studies. She would be helpful in providing additional background information 
+on the women/gender aspect of the project. Lastly, Mrs. Rachel Rigsby was selected to be on the advisory board due to her extensive 
+knowledge of history, as she is a high school AP World History teacher in Little Rock, Arkansas. She would be instrumental in providing 
+the historical perspective of women being added to the House of Representatives and Congress over the last few decades. Together, the 
+advisory board would be greatly beneficial in helping White to further identify any trends that would be applicable to the rise of women 
+running for positions within the House of Representatives and Congress. 
 
 # Works Cited
 
