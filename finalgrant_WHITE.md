@@ -60,10 +60,10 @@ DSL did a mapping project that shows the election of the House of Representative
 course of my project. But it will be done via a network rather than a map like the DSL has done. 
 
 # DSL Map View
-![alt text](https://github.com/introdh/intro-dh2018-kaydub14/blob/master/images/jobdescription.png "job_description")
+![alt text](https://github.com/introdh/intro-dh2018-kaydub14/blob/master/images/dslmap.png "map_view")
 
 # DSL Cartogram View
-![alt text](https://github.com/introdh/intro-dh2018-kaydub14/blob/master/images/jobdescription.png "job_description")
+![alt text](https://github.com/introdh/intro-dh2018-kaydub14/blob/master/images/dsl.png "cartogram_view")
 
 
 **History of the project (250 words)**
