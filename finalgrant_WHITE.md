@@ -74,6 +74,8 @@ bottom of the map bigger so that anyone with any visual impairment can see the p
 
 In the Cartogram view, the user is able to see popular elections. But the problem here is that the cities are not easy to read so I would ensure that everything is in a larger font on my website.
 
+Overall, the DSL at the University of Richmond has done a great job in putting together their "Electing the House of Representatives" project. I just would like to use it as a starting point for my "Electing Women in Congress and the House of Represenatives" project and expand from there. The data that the DSL has used for the House of Representatives can be filtered to only include women and the same can be done for the female candidates of Congress. 
+
 **History of the project**
 
 The history of this project was mentioned a little bit before. But to delve further into what was aforementioned, women running for 
@@ -88,9 +90,13 @@ While some sources think that this trend in women of color running for positions
 do. Women are becoming bold and fierce and stepping up to the plate. They are "women who are not necessarily waiting to be asked, not 
 waiting to be asked to the dance," but rather, "they're just stepping up and engaging as candidates" (Kurtzelben, 2018). 
 
-Refer to the sources below to build the background of this project. 
-https://www.cnn.com/2018/09/16/politics/house-women-update-september/index.html
-
+For the 2018 midterm elections alone, there were "234 women running for the House" with Democrats largely outweighing the Republicans 
+(Sparks, 2018). Of these 234 women who ran for seats in the House, 182 were Democrats and 52 were Republicans (Sparks, 2018). I want to 
+put the emphasis on women running for these seats because it is not widely celebrated as it should be. I also want to bring this 
+information to the public to ensure that they can gather information about the candidates of the past, present, and future from a 
+neutral source. I don't want this project to be heavily conservative or liberal. I just want to present the information on the number of 
+women who are running for these open seats within the House and within Congress because it can open doors for the candidates themselves 
+and for the public. 
 
 **Work Plan**
 
