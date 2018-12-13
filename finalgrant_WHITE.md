@@ -28,7 +28,7 @@ Board of Advisors:
 
 # Narrative 
 
-**Enhancing the Humanities (500-1000 words)**
+**Enhancing the Humanities**
 
 In light of this year being election season for midterms, I started to wonder what important information could be gathered from the 
 election campaigns and donations. With my background in women's gender and sexuality studies, I wanted to relate any information that 
@@ -55,7 +55,7 @@ The questions that I hope to answer through this project are as follows:
 4. Is there a correlation between candidates who are mothers? Do they reach out to other female candidates that are mothers?
 
 
-**Environmental Scan (500-1000 words)**
+**Environmental Scan**
 
 The Digital Scholarship Lab (DSL) at the University of Richmond did a mapping project that shows the election of the House of 
 Representatives, which is similar to what will be done throughout the course of my project. But it will be done via a network rather 
@@ -92,7 +92,7 @@ Refer to the sources below to build the background of this project.
 https://www.cnn.com/2018/09/16/politics/house-women-update-september/index.html
 
 
-**Work Plan (500 words)**
+**Work Plan**
 
 The timeline of getting this project up and running is about three to four months. I set this timeline to ensure enough time for data 
 gathering and the building of the website. For month one, I will spend the time gathering the data and assembling it into a database 
@@ -119,7 +119,7 @@ half of the month, the website will go live for the public to see it. I want thi
 don't want changes to be made by the public, the project code would be closed-access. When the website goes live, I will be working with 
 Dr. Tilton to fix any bugs that take place. It is my hope that there won't be any bugs that occur. 
 
-**Final Product and dissemination (500-1000 words)**
+**Final Product and dissemination**
 
 Since I plan to push the results of the relationships that female candidates have using a Wix website, it will be easily accessible. 
 However, as explained in the Work Plan section, I plan to use R Studio to build the two networks. Then I will move the images of the two 
@@ -146,7 +146,7 @@ the networks. I also am aiming to ensure that the website is straightforward so 
 looking for. As far as hearing impairment goes, if I include a video clip of an interview done by one of the female candidates while 
 they were on the campaign trail, I will ensure that there are captions available because I know how important they are. 
 
-**Biography (250 words)**
+**Biography**
 
 Kobi White is a current undergraduate student at the University of Richmond. She is pursuing a degree in Women's Gender and Sexuality 
 Studies with a minor in Entrepreneurship. She was exposed to the field of Digital Humanities through her Introduction to Digital 
