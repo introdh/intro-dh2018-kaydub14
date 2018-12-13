@@ -41,10 +41,11 @@ to see this come together using one of the tools of the digital humanities.
 
 Since politics are predisposed as a male-dominated area, women who are campaigning for open positions in politics have to have a strong 
 network of relationships. These networks will be built using information gathered from past media coverage through news outlets such as 
-CNN, MSNBC, Fox,  and Twitter to see who tagged who during the election season. The NEH grant would focus on building a network to show 
-the relationships with other promenient women in politics that the female candidates have had over the years. I think this 
-wouuld help the public be aware of who knows who because it can be difficult to gleam that information from the media. Having this 
-information readily available with dates could be helpful in solving this problem.
+CNN, MSNBC, Fox,  and Twitter to see who tagged who during the election season. The NEH grant would focus on building two networks to 
+show the relationships with other promenient women in politics that the female candidates have had over the years. It is important to 
+note here that all female candidates that have run for a seat within either Congress or the House will be included in these networks, 
+regardless of their party affiliation. I think this would help the public be aware of who knows who because it can be difficult to gleam 
+that information from the media. Having these networks readily available with the connections could be helpful in solving this problem.
 
 The questions that I hope to answer through this project are as follows:
 
@@ -56,17 +57,24 @@ The questions that I hope to answer through this project are as follows:
 
 **Environmental Scan (500-1000 words)**
 
-DSL did a mapping project that shows the election of the House of Representatives, which is similar to what will be done throughout the 
-course of my project. But it will be done via a network rather than a map like the DSL has done. 
+The Digital Scholarship Lab (DSL) at the University of Richmond did a mapping project that shows the election of the House of 
+Representatives, which is similar to what will be done throughout the course of my project. But it will be done via a network rather 
+than a map like the DSL has done. The DSL project also only covers the election of represenatives from the years 140 to 2016. I would like to expand on this data and include the most recent elections that occurred this year. I also would work to keep the project up to date and ensure that all information is checked on a regular basis to ensure that it is indeed accurate. I have included some pictures below of the DSL project. 
 
 # DSL Map View
 ![alt text](https://github.com/introdh/intro-dh2018-kaydub14/blob/master/images/dslmap.png "map_view")
 
+This picture shows the map of all 50 states and shades the number of represenatives of each party from each state. The user can click on 
+each state and select a county within that state to see more specific data about the elections there. However, I would make sure that 
+the color scheme in my project is lighter so that it does not strain the eyes of the viewers. I also would make the data points at the 
+bottom of the map bigger so that anyone with any visual impairment can see the points better. 
+
 # DSL Cartogram View
 ![alt text](https://github.com/introdh/intro-dh2018-kaydub14/blob/master/images/dsl.png "cartogram_view")
 
+In the Cartogram view, the user is able to see popular elections. But the problem here is that the cities are not easy to read so I would ensure that everything is in a larger font on my website.
 
-**History of the project (250 words)**
+**History of the project**
 
 The history of this project was mentioned a little bit before. But to delve further into what was aforementioned, women running for 
 positions in the House of Representatives and Congress caught my interest. I thought it would be interesting to see which women knew who 
