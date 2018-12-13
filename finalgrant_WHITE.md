@@ -107,14 +107,36 @@ University of Richmond. The purpose of this pilot test is to get feedback and ar
 website. For the pilot stage, I will put a feedback or "Contact Us" form for the pilot audience to leave feedback. I want to ensure that 
 the website is clear in its purpose of being created and that others can easily understand that. After doing the pilot test for the 
 first half of the fourth month, I will take all of the critique into consideration and tweak the website accordingly. For the second 
-half of the month, the website will go live for the public to see it. I want this website to be open access on the Internet. But I don't 
-want anyone to be able to make changes to the project so it will closed access in that regard. 
+half of the month, the website will go live for the public to see it. I want this website to be open access on the Internet. But as I 
+don't want changes to be made by the public, the project code would be closed-access. When the website goes live, I will be working with 
+Dr. Tilton to fix any bugs that take place. It is my hope that there won't be any bugs that occur. 
 
 **Final Product and dissemination (500-1000 words)**
 
-Use R Studio to build the two networks
-Then use GitHub to push the results to the public
-Will be open access to the public
+Since I plan to push the results of the relationships that female candidates have using a Wix website, it will be easily accessible. 
+However, as explained in the Work Plan section, I plan to use R Studio to build the two networks. Then I will move the images of the two 
+networks over to the Wix website. Once I've done the pilot test with the Digital Scholarship Lab, I will then publicize the website on 
+my social media such as Facebook, Twitter, and LinkedIn. I have picked these two avenues because this is where I will be able to 
+leverage my strong tie relationships with people that I know such as my family and their friends. I would want this to be a trickle 
+effect in a way. If one of my family members or connections on LinkedIn shares the link to the website, their connections would be able 
+to see it. I also intentionally have selected these three social media platforms because they push social networks the most. Since this 
+project will be composed of two networks, I thought I would keep that going in how I get the word out. 
+
+I also would want the Digital Scholarship Lab at the University of Richmond to have access to this project and promote it via their 
+website. That would be the way to disseminate this project through academic avenues since I do not have much academic experience and 
+background. It would be my hope that through the Digital Scholarship Lab publishing this project on their website, I would get some news 
+coverage within the academic realm. I would also like to present this project at academic conferences relating to the humanities. I 
+think it would be impactful for me to present since I would have the opportunity to network with other scholars within the digital 
+humanities. I intend to link everything back to the website whenever asked about this project. I say this because the website will be 
+where everything is stored. I also hope to create a press release with the University of Richmond and be available by email for 
+comments, if there are any further questions or if someone wants to provide feedback about the site. I do want people to express their 
+opinions about the website and want to be accessible regarding the project.
+
+In terms of disabilities, this project is going to be accessible to everyone. There will be handles on the images such as what was done 
+for the above pictures in the Environmental Scan section to ensure that people with any visual impairments can see each description of 
+the networks. I also am aiming to ensure that the website is straightforward so users don't have to click around to find what they're 
+looking for. As far as hearing impairment goes, if I include a video clip of an interview done by one of the female candidates while 
+they were on the campaign trail, I will ensure that there are captions available because I know how important they are. 
 
 **Biography (250 words)**
 
